@@ -7,7 +7,7 @@
 >- Низкая цена <br>
 
 *Логотип:*<br>
-![markdown logo](https://github.com/amirkenesbay/NeuroStartUp/blob/master/NeuroStart.jpg);
+![markdown logo](https://github.com/amirkenesbay/NeuroStartUp/blob/master/NeuroStart.jpg)
 
 	
 	
